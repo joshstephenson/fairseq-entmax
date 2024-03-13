@@ -1,0 +1,8 @@
+
+*.pyc
+fairseq/data/data_utils_fast.cpp
+fairseq/data/data_utils_fast.cpython-310-darwin.so
+fairseq/data/token_block_utils_fast.cpp
+fairseq/data/token_block_utils_fast.cpython-310-darwin.so
+fairseq/libbleu.cpython-310-darwin.so
+fairseq/version.py
